@@ -1,0 +1,16 @@
+---- DIFERENCIA ENTRE LENGUAJES DE PROGRAMACION
+ IMPERATIVOS Y DECLARATIVOS ----
+
+-----------------------------------------------
+
+Los paradigmas de programacion imperativos es 
+necesario indicarle al programa como hacerlo.
+Dandole instrucciones detalladas de los procesos.
+
+------------------------------------------------
+
+Los paradigmas de programacion declarativos es 
+necesario indicarle al programa que hacer.
+Como sql el cual solo se solicita la informacion.
+
+------------------------------------------------
