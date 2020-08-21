@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+	<primero>
+		<animal>Animal: Perro</animal>
+		<edad>Edad: 4 años</edad>
+		<comida>Comida: Dog chow</comida>
+		<raza>Raza: Boxer</raza>
+	</primero>
+
+	<segundo>
+		<animal>Animal: Gato</animal>
+		<edad>Edad: 2 años</edad>
+		<comida>Comida: Atun</comida>
+		<raza>Raza: Desconocida</raza>
+	</segundo>
+
+	<tercero>
+		<animal>Animal: Pinguino</animal>
+		<edad>Edad: 3 años</edad>
+		<comida>Comida: Pescados</comida>
+		<raza>Raza: artico</raza>
+	</tercero>
+
+	<cuarto>
+		<animal>Animal: Panda</animal>
+		<edad>Edad: 6 años</edad>
+		<comida>Comida: Bambu</comida>
+		<raza>Raza: australiano</raza>
+	</cuarto>
+</registro>

@@ -1,0 +1,26 @@
+[
+	{
+		"nombre": "Oscar",
+		"edad": "20",
+		"carrera": "Sistemas",
+		"Carnet":"201908335"
+	},
+	{
+		"nombre": "Mario",
+		"edad": "19",
+		"carrera": "Civil",
+		"Carnet":"201912312"
+	},
+	{
+		"nombre": "Luis",
+		"edad": "27",
+		"carrera": "Diseño",
+		"Carnet":"2015012312"
+	},
+	{
+		"nombre": "Tito",
+		"edad": "25",
+		"carrera": "Sistemas",
+		"Carnet":"201612312"
+	}
+]
